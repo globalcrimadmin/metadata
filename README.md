@@ -1,3 +1,3 @@
 # metadata
 For more information, go to:
-www.metadataanaylsis.com
+http://www.metadataanalysis.com
